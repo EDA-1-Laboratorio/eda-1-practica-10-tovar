@@ -1,14 +1,6 @@
+"""Fuerza Bruta (Búsqueda Exhaustiva)
+======================================================
 """
-Práctica 10 — Parte 1: Fuerza Bruta (Búsqueda Exhaustiva)
-==========================================================
-Problemas A, B, C y D implementados con mediciones reproducibles.
-
-Autores  : [Nombre del equipo]
-Fecha    : 2025
-Python   : 3.10+
-Libs     : itertools, time, math, statistics
-"""
-
 import itertools
 import time
 import math
